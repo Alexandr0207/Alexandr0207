@@ -5,41 +5,17 @@
 
 ### 🌱 I’m currently learning everything I can get my hands on
 
-### 🤔 I’m looking for help with finding more time in a single day
-
 ### 📫 How to reach me: sasha20013zhuk@gmail.com
 
 ### ⚡ Fun fact: I love what I do - code and help people learn coding
 
 ### My stack and tools:
 
-### JavaScript
+### Frontend: HTML, CSS, SASS, LESS, JS, React, React Hooks, React Router DOM, Redux Thunk, Immutable, Redux, PropTypes, ReduxForm, Leaflet,, Ramda, Immer;
+### Backend: NodeJs, NextJs, axios, express;
+### DB: Postgre, MongoDB, AWS, Firebase;
+### Tracking: GitLab, GitHub, YouTrack, Jira.
 
-### TypeScript
-
-### React
-
-### Node.js
-
-### PostgreSQL
-
-### MongoDB
-
-### HTML5
-
-### CSS3
-
-### Sass
-
-### Git
-
-### GitHub
-
-### Terminal
-
-### WebStorm
-
-### Amazon AWS
 
 <!--
 **Alexandr0207/Alexandr0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
