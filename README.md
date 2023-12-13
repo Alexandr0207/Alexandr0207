@@ -11,8 +11,8 @@
 
 ### My stack and tools:
 
-### Frontend: HTML, CSS, SASS, LESS, JS, React, React Hooks, React Router DOM, Redux Thunk, Immutable, Redux, PropTypes, ReduxForm, Leaflet,, Ramda, Immer;
-### Backend: NodeJs, NextJs, axios, express;
+### Frontend: HTML, CSS, SASS, LESS, JS, React, React Hooks, Next.js, Axios, React Router DOM, Redux Thunk, Immutable, Redux, PropTypes, ReduxForm, Leaflet,, Ramda, Immer;
+### Backend: NodeJs, express;
 ### DB: Postgre, MongoDB, AWS, Firebase;
 ### Tracking: GitLab, GitHub, YouTrack, Jira.
 
